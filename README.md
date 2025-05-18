@@ -8,7 +8,7 @@ Note: The image is the famous iamge of Lena used historically in Computer Graphi
 
 ## Demo of image registration with 2 modes Normal and Rolling
 
-![registration_demo_normal_vs_rolling.png](registration_demo_normal_vs_rolling.png)
+![registration_demo_normal_vs_roling.png](registration_demo_normal_vs_roling.png)
 
 
 ## To compile this code you will need to compile stb image in the Odin diretory
